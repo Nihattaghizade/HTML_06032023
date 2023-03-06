@@ -13,6 +13,14 @@ body {
     margin: auto;
 }
 
+#general {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
 /* #all css start */
 
 #all {
@@ -21,7 +29,7 @@ body {
     height: 493px;
     border-radius: 5px;
     filter: drop-shadow(0px 8px 10px rgba(0, 1, 1, 0.26));
-    background-color: #f1f8fc;
+    background-color: #ffffff;
     margin-top: 53px;
     margin-left: 179px;
 }
