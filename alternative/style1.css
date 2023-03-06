@@ -56,7 +56,7 @@ body {
     font-family: "Proxima Nova";
 }
 
-#all form input {
+.inp {
     background-color: #fcfeff;
     opacity: 0.702;
     width: 351px;
@@ -82,7 +82,7 @@ body {
     margin-bottom: 10px;
 }
 
-.box {
+#box {
     width: 21px;
     height: 21px;
     border-radius: 6px;
@@ -101,6 +101,7 @@ body {
     font-weight: bold;
     font-family: "Proxima Nova";
     text-align: right;
+    margin-left: 150px;
 }
 
 .S {
